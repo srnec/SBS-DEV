@@ -1,2 +1,10 @@
 git branch --set-upstream-to=origin/<branch> dev
 porko porno mondo kocco ficco
+
+vytvoril som aj dev branch... nastavte si na mastri:
+git branch --set-upstream-to=origin/master master
+a na deve
+git branch --set-upstream-to=origin/dev dev
+blaaaa :D
+
+toto by malo by takto popisane iba na mastri... na deve nie... mondo
