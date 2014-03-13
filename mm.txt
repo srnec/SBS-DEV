@@ -1,2 +1,2 @@
 git branch --set-upstream-to=origin/<branch> dev
-porko porno mondo kocco ficco
+porko porno mondo kocco ficcohovnisko ako test
